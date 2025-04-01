@@ -8,7 +8,6 @@ I'm Ali. You can find me everywhere by my full-name **Ali AslRousta** (or **Alir
 
 - I'm a full-time Systems Programmer and Backend Developer.
 - I mostly code in Go, Java and PHP as a profession, but I've been obsessed with C and ML for a life-time.
-- I'm currently working in a Crypto Exchange company based in Iran.
 - My Github profile includes my ~research~ projects.
 - I'm also an amateur artist and calligrapher.
 
@@ -29,6 +28,7 @@ I'm Ali. You can find me everywhere by my full-name **Ali AslRousta** (or **Alir
 
 ### Fields of Interest
 
+- Cryptos and Exchanges
 - Language Parsers and Compilers
 - Digital Typesetting (especially the elegance behind TeX)
 - Writing Short Essays about Technology
