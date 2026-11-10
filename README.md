@@ -33,7 +33,9 @@ I'm also an amateur artist and calligrapher.
 
 I develop my projects independently and make them freely available as open source. If you find my work useful, donations help sustain ongoing research, development, and maintenance.
 
-Cryptocurrency donations are welcome:
+You can use my [Donito](https://donito.me/alirus) link.
+
+Also, direct cryptocurrency donations are welcome:
 
 | Cryptocurrency | Network | Wallet Address |
 |---|---|---|
